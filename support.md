@@ -1,7 +1,5 @@
 # MemeVault Support
 
-Email: rb@rb.gg
-
 ## Quick answers
 
 **The keyboard won't paste a meme.**
